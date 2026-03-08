@@ -32,7 +32,8 @@
 
 ### 4 card starters
 
-- Heavy poly + Hound or Marten with 2 other non-starter Lunalight monsters (requires Guardian chimera or Sabre dancer)
+- Heavy poly + Hound or Marten with any 2 other non-starter Lunalight monsters (requires Sabre dancer)
+- Heavy poly + Hound or Marten with any 2 other monsters (requires Guardian chimera dancer)
 
 ## General thoughts on various things
 
@@ -85,6 +86,10 @@ Cons:
 
 - Requires searching which can be stopped or prevented by Droll.
 - Nibiru is more often than not a bad draw.
+- Useless into decks that don't try to beat you through comboing, such as backrow decks.
+- Can be Impulsed.
+
+Conclusion for Nibiru as an endboard piece is that it's very powerful into a specific type of deck that can threaten your ligers with their engine pushes. However it will not improve your winrate into anything else, and it is possible that you aren't too happy about playing the Nibiru in your main deck.
 
 ### I:P masquerena
 
@@ -102,12 +107,120 @@ Pros:
 
 Cons:
 
-- The opportunity cost that comes with choosing to end on I:P, compromising some part of your combo.
+- The opportunity cost that comes with choosing to end on I:P.
 - The benefit not outweighing what you get from S:P by much or in many situations simply being a side-grade.
+- Can be Impulsed.
+
+I think the conclusion is that I:P's contribution to the endboard is minimal for the opportunity cost you have to pay.
+
+### Evilswarm nightmare
+
+With Bagooska no longer being available Evilswarm nightmare becomes one of the most generically useful rank 4 endboard pieces. Its effect can can book any monster(s) your opponent special summons and you get to do it twice. This is a decently powerful effect that can sometimes be hard to play through. It is however a "when" effect which means it can miss timing. Important to note is that it will book all monsters that were summoned at the same time. As an example, when Jokul summons itself and another level 5 you get to flip both face down with a single activation of the effect.
+
+The other potential benefit it brings is to act as an endboard piece in games you where you are unable to summon Liger dancer, since it is often easy to make a rank 4 still.
+
+So what are its flaws? The fact that it books monsters on special summon means there is an overlap as Liger already destroys special summoned monsters. This means you are doubling up on a similar type of effect. Which means you aren't complementing the strengths of your endboard pieces to cover more situations. It also cannot be used on link monsters.
+
+Pros:
+
+- Powerful effect that can be used twice.
+- Simple to make and you can even end on it when getting to Liger is impossible.
+
+Cons:
+
+- It can miss timing so the opponent can sometimes play around it.
+- Its effect has a layer of overlap with Liger's destruction effect.
+
+I believe this card as an endboard piece has similar issues to I:P. It doesn't do much to help out in areas where Liger is lacking and therefore doesn't increase your winrate much in games where your board would struggle. However, it can potentially increase your win rate when you can't make Liger. But as of now I cannot say how real that is.
+
+### W:P and A bao
+
+This is a 2 card tech that link climbs through W:P into A bao, letting you use A bao on the next turn to summon back W:P making the negate effect live. In order to summon A bao you need a fiend monster which is Dugares, or sometimes Nyarla.
+
+As an endboard piece this combination is very flexible as it gives you access to 3 different effects.
+
+1. You can use A bao to pop any card on the field.
+2. You can use W:P to negate a monster and banish it.
+3. You can use W:P's effect to link into S:P, with the option of using an opponent's link monster as material.
+
+This makes it flexible into multiple match ups. A bao to pop is good if the opponent tries to set cards or can be used to destroy a normal summoned monster, something Liger cannot do. W:P making S:P with the opponent's monster is incredibly powerful into any deck that relies on link monsters such as Maliss or Yummy. And in most other scenarios you want to make use of W:P's very powerful negate and banish effect.
+
+One downside with the W:P negate is that A bao cannot activate before the main phase, meaning you can never negate a first action normal summon. A bao also needs a discard to use its effect, but you will have a free Poly in hand from the normal combo.
+
+It is also possible to end on W:P without A bao just to make S:P with another body on your field, which gives it close to the same usage as I:P. Since W:P can be made with Cross-sheep, it is the same resource investment as I:P.
+
+A bao is a phenomenal card in itself that gives you really good grind because it banishes itself and comes back in the end phase, meaning it will always be safe for turn 3 and you can keep using it every turn.
+
+As can be seen in some of the combo lines below, A bao can also sometimes be used to extend on turn 1 in order to end on a better board.
+
+Pros:
+
+- Flexible endboard piece that gives you multiple options depending on what your opponent is playing.
+- Can help to cover weaknesses that Liger cannot interact with.
+- Can sometimes extend your plays at the cost of a discard turn 1.
+
+Cons:
+
+- As always there is an opportunity cost to be paid. A 2 card package means you have 1 less card in the extra deck to improve your going second.
+- While it is flexible it does not protect Liger from all dangers.
+- Can be Impulsed.
+
+Conclusion here is that it's flexible and gives you strong grind. But it is pretty costly, both in terms of extra deck spots and resources required to make use of it.
+
+This is currently my preferred endboard and what the combos generally try to end on.
+
+### Topologic blaster dragon (featuring Tornado dragon)
+
+Topologic blaster is a fun card with extremely powerful effects, all of which can be used once per turn each. Normally you want to summon it first and the fuse into a Liger in its link arrow to trigger its effect that banishes a monster from the opponent's extra deck. This will let you see what match up you're playing against before your opponent starts playing and choose to banish the card that threatens your Ligers the most.
+
+From the Gold leo starter combo you can end on 2 Ligers with Topologic blaster and Tornado dragon on the field. The purpose of the Tornado dragon here is to pop Tiger in the pendulum scale on the opponent's turn, which triggers the monster effect of the card to summon a Lunalight monster from your GY. This means you get to trigger Topologic blaster a second time on demand, to either banish a second card from the extra deck, or shuffle all monsters or spell/traps into the decks. This gives the board a really strong way to beat backrow decks as well.
+
+Making a link 5 is costly though, in order to end on everything from the normal line you will be forced to fuse from the GY twice, which I usually don't recommend.
+
+Pros:
+
+- In terms of power this endboard is the strongest in theory.
+- Getting rid of Liger outs from the opponent's extra deck means you can often ensure that the Ligers will win the game.
+- The ability to shuffle all spell/traps into the deck is incredibly power against any backrow deck.
+
+Cons:
+
+- A link 5 is very costly to make.
+- Fusing from the GY twice hurts your grind game a lot.
+- Topologic blaster is mandatory so the opponent can force its activations.
+- If playing the 2 card package there is an opportunity cost to pay in the extra deck.
+
+This is a strong but sometimes awkward to play strategy. I have not fully made up my mind on it, but currently I think the suboptimal combo you're forced into and the terrible grind doesn't justify the potential power.
+
+### Alembertian (featuring funny purple cards)
+
+Alembertian is a rank 4 that should not exist. By detaching 4 materials it can search for any spell or trap in the game, and putting 4 level 4 monsters on the board is not that difficult for Lunalight.
+
+Generally what you want to do with this is to search Dimensional barrier or some other degenerate floodgate, which obviously is very strong if the opponent is playing any type of monsters other than Links.
+
+You are forced to play a brick to do this though but as long as you're going first you don't mind drawing it.
+
+I assume the combo for this is pretty awkward and a huge compromise, but I have not gone over it so might update later.
+
+Pros:
+
+- A floodgate that stops your opponent from playing will almost certainly win you the game.
+- It can beat a large variety of match ups.
+
+Cons:
+
+- You have to play a card that does nothing going second.
+- Likely a combo with big flaws (not confirmed).
+
+I have not tried this yet or made a line for it, so I will refrain from drawing conclusions.
 
 ## Combos
 
 ### Gold leo
+
+The combo you can do from a Gold leo normal summon should be ending on your full endboard while playing as safely as possible around hand traps like Droll or Nibiru. If you have endboard pieces that you cannot reach from just Gold leo then those extra deck spots should probably be repurposed.
+
+There are many possible lines you can do, but the one outlined here is the best I found in terms of generating the most resources. That doesn't mean there isn't a better line, but through my testing this is what I ended up with, and so the best I know of for now.
 
 #### Full line
 
