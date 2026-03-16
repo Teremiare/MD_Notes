@@ -2,9 +2,9 @@
 
 I write these notes as I am trying to sort out how I should approach my combos, different gamestates and various match ups.
 
-I am putting all my thoughts into this so that I can review and improve them. What is left is a collection of the strategies I consider best to my knowledge at the time of writing them. This does not mean they are perfect or necessarily the best, but that I have not yet found the improvement.
+I am putting all my thoughts into this so that I can review and improve them. What is left is a collection of the strategies I consider best to my knowledge at the time of writing them. This does not mean they are perfect or necessarily the best, but that I have not yet found that which I consider to be better.
 
-I will continuously attempt to implement any improvements I can find in pursuit of the highest win rate I can get with this deck.
+I will continuously attempt to implement any improvements I can find in pursuit of the best results.
 
 ## Starters
 
@@ -190,9 +190,9 @@ Making a link 5 is costly though, in order to end on everything from the normal 
 
 Pros:
 
-- In terms of power this endboard is the strongest in theory.
+- In terms of power this endboard can be argued as being the strongest, as the effects on Topologic blaster are very powerful.
 - Getting rid of Liger outs from the opponent's extra deck means you can often ensure that the Ligers will win the game.
-- The ability to shuffle all spell/traps into the deck is incredibly power against any backrow deck.
+- The ability to shuffle all spell/traps into the deck is incredibly powerful against any backrow deck.
 
 Cons:
 
@@ -310,7 +310,7 @@ Make sure to discard the Poly in step 3. After this the combo deviates from step
 14. Pendulum summon Kaleido and make Evilswarm nightmare with Marten.
 
 I choose to do this line in a way that goes through the least amount of fusions. However you can send another fusion with Kaleido at the end to make Hound live at the start of the opponent's turn.  
-I'm not sure I'm entirely happy with this sequencing as it only ends on 1 Liger if the opponent chains Nibiru to the Poly activation at the end, but you get to keep the S:P I guess.
+I'm not sure I'm entirely happy with this sequencing as I think it only ends on 1 Liger if the opponent chains Nibiru to the Poly activation at the end, but you get to keep the S:P I guess.
 
 TODO: Alembertian line...
 
@@ -490,13 +490,59 @@ This line will end on everything and have at least 2 Liger through Nibiru:
 9. Use Tiger to summon Sheep in the Cross-sheep arrow, use it to summon Kaleido back, activate Tenki to add another Sheep.
 10. Send Leo dancer with Kaleido and activate Poly to fuse into the first Liger dancer.
 11. The 2 Sheep add back Wolf and Kaleido, Masquerade adds back Poly.
-12. Scale wolf and pendulum summon Kaleido. Here there is nothing you need to send so I like sending the second Wolf, that way I have one negate ready for the opponent's turn and another for my next turn. It may seem unnecessary after going full combo but if the opponent didn't surrender at this point there may be a reason for it so take every precaution.
+12. Scale Wolf and pendulum summon Kaleido. Here there is nothing you need to send so I like sending the second Wolf, that way I have one negate ready for the opponent's turn and another for my next turn. It may seem unnecessary after going full combo but if the opponent didn't surrender at this point there may be a reason for it so take every precaution.
 13. Now use Marten in the GY to bounce Tiger.
 14. Make Nyarla with Marten and Kaleido, detach both to attach Dugares in the GY. Search something with Marten, it's not important.
 15. Use Tiger again to summon Kaleido back and link into W:P and A bao.
 16. Activate Wolf to fuse into the second Liger.
 
 Optionally, if you play Serenade dance it can be searched by Marten. Then you can discard it with A bao to summon something back from the GY and use Serenade to discard the final card from your starting hand to summon something from deck and make S:P. Of course you only want to do this if the card in your hand is useless.
+
+##### Hound
+
+Hound may not seem like it would make your combo better but having it in hand gives us access to a line that beats Imperm, which otherwise ends your turn if it is used on a Gold leo summoned by Hound.
+
+1. Activate Masquerade to send Marten to the GY and search Lunalight fusion.
+2. Use Marten to bounce Masquerade and summon itself.
+3. Activate Lunalight fusion to fuse Marten and Hound into Perfume dancer. Activate Perfume dancer to search Perfume and Hound to summon from deck.
+
+Here is the first check to see if the opponent responds. If they have an Imperm in hand they can use it to negate Perfume dancer in this chain. If they do, we will summon Gold leo with Hound, but if they don't, we will summon Kaleido instead. Let's first assume there is no Imperm.
+
+4. Summon Kaleido from deck and send Gold leo to the GY.
+5. Bounce Kaleido with Perfume dancer so that you can send Leo dancer.
+6. Use Perfume to revive Gold leo which searches Sheep, discard the Sheep and add it back. Search Poly with Sheep.
+7. Make Tiger king with Kaleido and Gold leo to set Tenki which searches Emerald. Search Wolf with Perfume by discarding Poly.
+8. Make Cross-sheep with Tiger king and Perfume dancer.
+9. Activate Masquerade again. Scale Wolf and use its effect to fuse into Liger dancer using the GY, don't banish Kaleido.
+10. Cross-sheep summons Kaleido from GY. Masquerade adds Poly and discards Emerald, summoning Hound from banished.
+11. Make S:P with Hound and Cross-sheep. Send the other Leo dancer with Kaleido.
+12. Activate Poly to fuse everything but the Hound in GY to make the second Liger.
+
+This does end on double Liger, S:P and Hound in GY. But it is compromising as we don't have any sort of follow up and there is no fusion in the GY for Hound.  
+There are other lines that are more resource efficient however with Masquerade and Marten both being used at the start of the line you cannot get to Liger through Nibiru without sending Leo dancer early and searching Wolf.
+
+But let's look at the most interesting part, how we beat Imperm.
+
+**If we get Impermed on Perfume dancer:**
+
+4. Summon Gold leo from deck and add Kaleido to hand, discard something else.
+5. Normal summon Kaleido and send Sheep which you add to hand with Gold leo.
+6. Activate Masquerade again and search Poly with Sheep.
+7. Fuse Perfume dancer and Gold leo into a second Perfume dancer. Masquerade adds back Poly and discards another card.
+8. Use Perfume dancer to bounce Kaleido so that it can send Leo dancer.
+9. Make S:P with Kaleido and Perfume dancer.
+10. Activate Poly to fuse into Liger.
+
+As we can see we ended on S:P, Liger and Hound with a fusion in GY even after Imperm. But what if the opponent didn't Imperm Perfume dancer and instead holds it for Gold leo when seeing the Hound activating in GY? In that case the line starts to deviate from the original line at step 6.
+
+6. Activate Perfume to summon Gold leo from GY, it gets hit by Imperm.
+7. Make Dugares with Kaleido and Gold leo to resummon Kaleido, sending Sheep to the GY.
+8. Make S:P with Perfume dancer and Kaleido.
+9. Use Wolf to fuse into Liger dancer using everything but Hound and Perfume dancer in the GY.
+
+It could be better to make Tiger king instead of Dugares and the normal summon has not been used so depending on what's in hand there may be ways to end on even more. But just like in the other scenario we end on S:P, Liger and Hound with a fusion in the GY, making this the minimal board into Imperm if we choose to send Marten instead of going for the base line sending Hound.
+
+The uninterrupted line could possibly be better so I might revisit this, but the most interesting part is that we can beat Imperm. However, that does not mean you should blindly go for this line, as it is not good into Droll, while Masquerade sending Hound to summon Gold leo does beat Droll. So you have to make a choice of which hand trap you will try to beat.
 
 ### Fraktall
 
@@ -635,6 +681,8 @@ This ends on both Ligers and A bao with a guarantee to always land at least 1 Li
 
 ### Kaleido
 
+Kaleido is not a 1 card starter but it can combo with a lot of other cards.
+
 #### Line with Sheep
 
 1. Activate Sheep to search Poly. Normal summon Kaleido and send Marten. Use Marten to bounce Kaleido.
@@ -698,6 +746,103 @@ Maybe there is a way to do more...
 **FOLLOW UP:**  
 It's pretty bad because the Marten is still banished. However Wolf is in rotation so theoretically if you send Panther to boom the field you can make the second Leo dancer next turn. Maybe that's something.
 
+#### Line with Tiger
+
+When we have Kaleido and Tiger we can either send Marten and then make Nyarla to search Masquerade, or we can send Gold leo and use Dugares to revive it so it can trigger its on-summon effect. Let's see where each line goes.
+
+**Kaleido send Marten:**
+
+1. Normal summon Kaleido and send Marten to GY. Use Tiger to summon Marten.
+2. Overlay Kaleido and Marten for Nyarla, on summon discard a monster from hand, detach to search for Masquerade.
+3. Activate Masquerade to send Hound which summons Gold leo.
+4. Gold leo searches Sheep and discards another card. Search Poly with Sheep and add Sheep back to hand.
+5. Activate Poly to fuse Gold leo and Sheep into Perfume dancer. Trigger CL1 Perfume dancer, CL2 Masquerade and CL3 Sheep. Masquerade discards the card added by Sheep.
+6. Activate Perfume dancer to bunce Tiger and activate it again to summon Kaleido.
+7. Bounce Tiger with Marten to summon itself. Overlay Kaleido and Marten for Tiger king, setting Tenki which will search another Sheep.
+8. Link off Tiger king and Nyarla for Cross-sheep.
+9. Activate Tiger to summon Sheep in the Cross-sheep arrow, use it so summon Kaleido.
+10. Kaleido sends Leo dancer. Activate Poly to fuse Sheep, Sheep, Kaleido and Perfume dancer from field and hand to make the first Liger. Trigger Kaleido and both Sheep to add Wolf, Kaleido and Poly back to hand.
+11. Scale the Wolf and pendulum summon Kaleido, send another Hound. Activate Perfume to summon Marten.
+12. Make Dugares with Kaleido and Marten, use it to summon back Kaleido. Link climb through W:P into A bao.
+13. Activate Wolf to fuse into the second Liger using the GY.
+
+This line is safe into Nibiru as Perfume dancer is the 5th summon and we will have Perfume available in hand throughout the line, so we can always make 2 Ligers through Nibiru. What about Droll? The first search is Masquerade and if we get hit by Droll after that we already have access to Kaleido, Gold leo, and Marten. This means we will still get to Liger after Droll by accessing Wolf through Kaleido and Gold leo, and using Dugares to summon Kaleido another time to send Leo dancer.
+
+However if you have a keen eye you will have noticed that Nyarla requires a monster in the GY to activate. So you can only do this line if you have a monster in hand to discard on summon. Which can feel a bit bad since it's just a minus 1. This is a scenario where Dempsey is a direct improvement.
+
+Cen we still do a similar line without discarding? Yes if we make Dugares first so that Kaleido can send another monster to the GY. But by doing this we play into Nibiru before making Nyarla. It also plays awkwardly into Droll as you use Dugares at the start. And if you send Wolf to attach with Nyarla then you can't add it back with Gold leo.
+
+**Kaleido send Gold leo:**
+
+1. Normal summon Kaleido and send Gold leo. Use Tiger to summon Gold leo.
+2. Make Dugares with Kaleido and Gold leo (_not_ in the middle column), use it to summon Gold leo from GY.
+3. Gold leo searches and discards Hound to summon another Kaleido from deck.
+4. Kaleido sends Sheep and Gold leo adds it to hand. Activate Sheep to search Poly.
+5. Fuse into Perfume dancer with Kaleido and Gold leo. Search Perfume and add Poly back to hand.
+6. Activate Perfume dancer to bounce Tiger. Use Tiger again to summon Kaleido. Send Marten to GY.
+7. Activate Marten to bounce Tiger and summon itself. Make Nyarla with Kaleido and Marten. Detach to search Masquerade.
+8. Activate Tiger again to summon Kaleido and send Wolf. Activate Perfume to summon Marten.
+9. Overlay Kaleido and Marten to make Tiger king, setting Tenki to search Sheep.
+10. Make Cross-sheep with Tiger king and Nyarla.
+11. Activate Masquerade to send Emerald, summoning Sheep from GY in the Cross-sheep arrow. Cross-sheep summons Kaleido. Kaleido sends Leo dancer.
+12. Activate Poly to fuse Sheep, Sheep, Kaleido and Perfume dancer into Liger dancer. Trigger both Sheep and Masquerade to add Wolf, Kaleido and Poly back to hand, no discard.
+13. Scale Wolf and pendulum summon Kaleido from hand. Send the second Hound.
+14. Link climb with Kaleido, Cross-sheep and Dugares into W:P and A bao.
+15. Activate Wolf to fuse into the second Liger using the GY.
+
+With this line we kept the 3 other cards in our hand as we did not need to discard anything extra. It does lose to Nibiru as the 5th summon is the Kaleido summoned by Hound, however it is fine into Droll.
+
+Based on these lines and assessment, it is better to send Marten first if you don't mind discarding a useless monster in hand _or_ you play Dempsey, as that lets you play safely into Nibiru. Otherwise it is better to play to send Gold leo, with the downside being that you will play into Nibiru as it is 5 summons before you can fuse.
+
+#### Line with Wolf
+
+Since Wolf is another pendulum scale it also lets you combo with Kaleido, however in this case we don't really have any choice in what to send. If we don't send Marten the only way to proceed is to activate Wolf, banishing both Kaleido and the sent monster to fuse into Perfume dancer. However the searched Perfume doesn't have anything to summon, unless you play Gravity controller to put Perfume dancer in the GY. For the sake of curiosity I may explore this option too.
+
+**Kaleido send Marten:**
+
+1. Normal summon Kaleido and send Marten to GY.
+2. Scale Wolf and bounce it with Marten to summon itself.
+3. Overlay Kaleido and Marten for Nyarla, on summon discard Wolf. Activate Nyarla to detach and search Masquerade.
+4. Activate Masquerade to send Hound, summoning Gold leo.
+5. Gold leo searches Sheep and discards another card. Search Poly with Sheep and add it back to hand.
+6. Use Poly to fuse Gold leo and Sheep into Perfume dancer, searching Perfume. Trigger Sheep and Masquerade to add back Kaleido and Poly, discard another card.
+7. Activate Perfume dancer to bounce Masquerade and summon Kaleido from hand. Send Leo dancer to GY.
+8. Make Cross-sheep with Perfume dancer and Nyarla.
+9. Use Perfume to summon Sheep from GY, and search Sheep by discarding Masquerade.
+10. Use Poly to fuse into Liger in the Cross-sheep arrow, using Kaleido + Sheep on field, Sheep in hand and Marten in GY. Trigger Kaleido and both Sheep to add back Poly, Wolf and Gold leo to hand.
+11. Cross-sheep summons Kaleido which can send another Gold leo for fodder.
+12. Make S:P with Kaleido and Cross-sheep. Activate Wolf to fuse into the second Liger.
+
+We play around Nibiru with this line. It is not safe into Droll though.
+
+---
+
+## Case studies
+
+### Kaleido + Tiger + Tenki + Masquerade + Impulse VS Ash + Droll
+
+The best start here is most probably Masquerade due to reasons outlined previously. In the scenario that Hound does not get Ashed, and Droll is used after Gold leo has searched a card, then the Ash no longer matters for preventing Liger dancer. So let's consider the scenario that Hound gets Ashed, and our next action is Tenki to search, which will prompt them to use Droll.
+
+If we use Tenki to search Gold leo which would be the strongest next play, can we beat Droll? The answer is yes, through this line:
+
+1. Normal summon Kaleido and send Emerald.
+2. Use Tiger to summon Emerald and make Nyarla. On summon Nyarla discards Gold leo.
+3. Detach from Nyarla (attach Hound) and use Emerald to summon Kaleido, which sends Marten.
+4. Use Marten's effect, bouncing Tiger to summon itself.
+5. Make Dugares with Marten and Kaleido, use its effect to summon Gold leo.
+6. Use Tiger again to summon Kaleido, which sends Wolf. Gold leo adds Wolf back to hand.
+7. Make Cross-sheep with Kaleido and Nyarla.
+8. Use Wolf to fuse into Perfume dancer using Emerald and Marten in the GY. Trigger Cross-sheep to summon back Kaleido.
+9. Use Perfume dancer to bounce Wolf and Kaleido to send Leo dancer.
+10. We can now use the bodies on the board to link climb through W:P into A bao, and make S:P under it.
+11. Use Wolf again to fuse into Liger dancer, banishing everything but the Hound in GY.
+
+Instead, if we figured that adding Gold leo with Tenki would be weak into Droll, and instead added Sheep, would the line be better?
+
+1. Normal summon Kaleido and send...
+
+### Kaleido + Marten + Tenki + Lunalight fusion + Fuwa
+
 ---
 
 ## Match ups going first
@@ -753,19 +898,60 @@ Let's instead assume they have multiple engine pieces and consider how they put 
 - Prayers.
 - Wousu.
 
-If you have S:P on the board, it can banish the normal summon to make sure the opponent cannot protect from Liger destruction. This means they will not be able to out the second Liger after using Wousu on one of them. The Mitsu player's gameplan from this spot is to survive turn 3 and recycle the Wousu to do it again. The way they can do this is by setting Prayers with a ritual monster on the field, so that if you try to destroy it with Liger's effect on turn 3 they can chain the Prayers to dodge and still have the ritual monster block an attack. In order to not lose to this you ideally want to have enough follow up to play on turn 3 so that you can put more pressure on the board before you enter battle phase, or if you are skipping main phase 1, after the battle phase. But you also have to consider that if Wousu is in the GY they need a way to get it back, such as using Kusanagi, or the GY effect of the trap to summon Wousu to the field so that it can be added back through its own effect if tributed.
+**If you have S:P on the board**, it can banish the normal summon to make sure the opponent cannot protect from Liger destruction. This means they will not be able to out the second Liger after using Wousu on one of them. The Mitsu player's gameplan from this spot is to survive turn 3 and recycle the Wousu to do it again. The way they can do this is by setting Prayers with a ritual monster on the field, so that if you try to destroy it with Liger's effect on turn 3 they can chain the Prayers to dodge and still have the ritual monster block an attack. In order to not lose to this you ideally want to have enough follow up to play on turn 3 so that you can put more pressure on the board before you enter battle phase, or if you are skipping main phase 1, after the battle phase. But you also have to consider that if Wousu is in the GY they need a way to get it back, such as using Kusanagi, or the GY effect of the trap to summon Wousu to the field so that it can be added back through its own effect if tributed.
 
 But what if the S:P is forced before the normal summon? You use it when you have to use it. If they normal summon a Mitsurugi monster after that then your goal is to prevent them from getting to enough bodies.
 
-In any scenario if you have Nibiru you are generally safe from having your board broken. However you have to consider that they play Impulse, so to counter that you want to hold Hound and not use it on anything else. Another consideration to make is that if you activate Nibiru it will trigger their tribute effects, including Wousu letting them get it back to hand for free so you need to play with that in mind.
+**In any scenario if you have Nibiru** you are generally safe from having your board broken. However you have to consider that they play Impulse, so to counter that you want to hold Hound and not use it on anything else. Another consideration to make is that if you activate Nibiru it will trigger their tribute effects, including Wousu letting them get it back to hand for free so you need to play with that in mind.
 
-With Topologic blaster it may seem safe because you can banish the troublesome cards from the opponent's extra deck. However if you do a line that has poor follow up there is a chance you lose to Wousu over multiple turns.
+**What about the board with A bao**, how safe is it compared to other options? If the opponent starts by normal summoning Ice ryzeal you're suddenly put in a spot with multiple options. Do you pop the normal summon that Liger can't deal with, or do you tag out into W:P so that you can negate and banish what Ice ryzeal summons? Let's explore.
+
+If we pop the Ice ryzeal and try to stop them from getting to Light dragon, it means we have to use Liger when Sword + Ext are on the field, and then also when Node has used its effect. That means our response to Ice ryzeal has used up all of our interruptions on the field. However, the Mitsurugi engine only has 3 ways to put a level 4 monster on the board: normal summon, Prayers and tributing Night sword serpent. Since the normal summon was already used, by negating the effect to ritual summon from hand using Mitsurugi ritual, we can stop Night sword serpent from hitting the field, given that they didn't draw it. The reason we want to negate this instead of Prayers is that a second Prayers can be activated if you negate the first one.
+
+This puts the opponent in a spot where they are xyz locked and unable to put 2 level 4 monsters on the board. And because of that their only way to out Liger is with Wousu, and so they cannot deal with both Ligers. They also cannot link summon anything so they won't pass on a great board for turn 3. However since the A bao didn't tag out it will be destroyed by Murakumo, making the only monster remaining on the board 1 Liger.
+
+If we instead chain the effect of A bao to summon W:P from the GY in response to Ice ryzeal we can use it to negate and banish the next monster that is summoned. This completely shuts down the Ryzeal line, however since the Ice ryzeal is still normal summoned the Liger dancers cannot out it. This means when they put another level 4 on the board the threat of Light dragon is back, and using the Liger will only destroy 1 monster. Also important to note is that the opponent is not xyz locked because no Ryzeal monsters were summoned from hand, so they still have the option of going into Gorgon, increasing the number of potential threats.
+
+They could also summon Sword ryzeal without using the effect, and then overlay into Light dragon. If they then have Ext ryzeal in hand it puts you in a bad spot as the Aggregator will force W:P.
+
+Combine this with the fact that the effect to summon can be Impulsed, and the safer option appears to be popping the normal summon.
+
+But what if the start is Ext ryzeal instead of Ice ryzeal? In this scenario they will start by sending Aggregator to the GY, assuming you don't have something set in the backrow like Droplet or Eclipse. This will force the A bao to activate, and popping the special summoned Ext ryzeal is not very valuable so we would much rather summon W:P here. Just like before we want to use Liger when Ext and Sword are both on the field. This leaves the opponent with Ice ryzeal in hand, which if they normal summon and activate we will negate and banish with W:P. If the opponent used Impulse on A bao they will not be able to activate Ice ryzeal so it's not the worst situation.
+
+Next we consider the Mitsurugi plays our opponent could start their turn with.
+
+If they start with the normal summon of a Mitsurugi monsters then just like in the case with S:P we will use A bao to pop it.
+
+If the start is Habakiri, then we can either choose to hold, or choose to summon W:P so that we can negate and banish the monster in the GY. Whether they Saji or Aramasa, getting this negated is likely to cause a lot of damage to their ability to break the board. However if you hold it, letting them search for Mitsurugi ritual and try to ritual summon from deck, you get put in a position where you either use the Hound on this or let Murakumo get summoned before the A bao has been used. As we concluded earlier we would rather negate the effect to ritual summon from hand to prevent the opponent from tributing Night sword serpent. Which leaves the next option here to be summoning W:P in response to the ritual spell. On summon they can choose to either chain block the Murakumo on field or the tributed monster in the GY, which is likely Habakiri attempting to search. The W:P will attempt to negate and banish what it can. If they however chain Prayers tributing the Murakumo, it will not get banished meaning we got practically no value out of the W:P. Or do we?
+
+So let's consider the alternative options. We could summon W:P and negate the ritual spell with Hound, making the W:P ready to negate the normal summon. However if the next card they use is Ext ryzeal we ended up doing nothing with it.
+
+I think the best approach is to chain A bao to Habakiri to hurt their plays immediately, and if they Impulse it then Ext and Ice are turned off before they get a chance to use them.
+
+However if they opened all the possible gas, will they break through the board anyway? If we assume their hand is like Habakiri + Murakumo + Aramasa + Prayers + Ritual, do we even have a chance at all without the help of non-engine? If played out like we outlined previously, Habakiri sending Saji, and the Saji is negated by W:P, then the Mitsurugi player can simply normal summon Aramasa without fear and search Wousu to tribute one of the Ligers. Then make use of Ritual, Prayers and Mirror to put 2 more bodies on the board. This makes 3 to go into Gorgon alongside the Aramasa while also setting up backrow for the next turn. And that's assuming the Hound negated any of the spells, as they can get to the needed bodies no matter which you choose to negate.
+
+Can we turn that scenario into a winning one? If we let Habakiri for Saji go through and let them ritual summon from deck, then we go W:P on the summon of Murakumo. For them to keep that Murakumo and get the search they have to use Prayers tributing Murakumo. If they then summon something with it and revive the Murakumo there are now 2 bodies on the board that can be destroyed by Liger. If we do that and the next move is to go Aramasa search Wousu, tribute the Liger that did not activate, and Hound negates the effect to ritual summon from hand, then their only remaining way to put bodies onto the board is Mirror. However this can still give them enough bodies to make Gorgon by using the normal summoned Aramasa, since the remaining Liger has already been used. If you have a Liger in the EMZ and made sure to activate it first, the Gorgon doesn't threaten use here.
+
+While not ideal this is still a better position than the previous scenario where we negated Saji. If we instead negate the first ritual spell activated then we force them to use 2 ritual spells to get Murakumo on the board which may be advantageous here and probably has a higher chance of winning.
+
+Also important to think about is to not boom before the normal summon has been seen, otherwise a late Ice ryzeal destroys you.
+
+I think the conclusion here is that if their hand is good enough, you will lose both Ligers, no matter what you try to stop.
+
+**With Topologic blaster** it may seem safe because you can banish the troublesome cards from the opponent's extra deck. However if you do a line that has poor follow up there is a chance you lose to Wousu over multiple turns.
+
+As I'm not an avid Mitsurugi player there may be parts above that others would disagree with, if that's the case do tell me.
 
 Conclusions:
 
+- Play around the xyz and reptile locks.
 - Negating Prayers with Hound can be punished as they're allowed to use it again.
 - Negating ritual from hand is generally better than negating ritual from deck.
-- S:P makes it much harder to do the lines that can beat 2 Ligers.
+- If they start with Habakiri or Ritual it is probably better to negate the first ritual.
+- Generally you want to boom only after the normal summon has been seen.
+- S:P or other endboard pieces makes it much harder to do the lines that can beat 2 Ligers.
+- Don't use A bao early if they didn't normal summon, force them to invest as many resources as possible into removing it.
+- Nibiru clears.
 
 ### Yummy
 
@@ -776,6 +962,13 @@ In terms of not getting attacked over by boosted Yummy monsters the gameplan is 
 When it comes to playing around Gorgon there are a few more things to consider. If they activate the effect of Snatchy to place a field spell from the deck, they are now locked out of summoning link 3 or higher monsters, which means you are no longer threatened by Gorgon. The Gorgon has to be pointing directly at the Liger to get the boost, which means if you have the first Liger in the EMZ and a second Liger behind it, a Gorgon in the other EMZ cannot point to either of the Ligers. This forces the opponent to first summon a link monster in their EMZ that points to the middle zone, and then after that make I:P to threaten Gorgon in the middle MMZ. You only have to blow up the board when the Gorgon threat is real, which means I:P is on the field with another monster to be used as material, and they have a way to make it point to a Liger.
 
 If you're in a difficult position you should also consider how likely it is that the opponent is even playing Gorgon. In the Solfa variant it is almost never played as they need the extra deck space for other cards. Therefore if you're choosing between trying to stop Gorgon or holding the effect for battle phase, you should probably just hold it. Pure Yummy is much more likely to play Gorgon and it should be considered a real threat if you have not seen any Solfa cards.
+
+Conclusions:
+
+- This deck usually loses to 2 Ligers even with nothing else.
+- Hold at least 1 Liger for the battle phase.
+- Be weary of I:P into Gorgon.
+- Keep in mind that there actually is a lock.
 
 ### Dracotail
 
@@ -791,6 +984,16 @@ Because of this your number 1 goal for Hound is to negate Branded fusion, as tha
 
 Against a 6 card hand with a full board this is generally not a problem. However, it becomes far more dangerous to play into Maxx c or Fuwa when the opponent is playing Five-rainbow, as with enough cards in hand they have a very good chance of getting to it. An Ash blossom or Impulse in hand means you're quite safe always.
 
+Some people tried playing Psychic end punisher which you can make with either a level 3 hand trap + Arthalion or the level 4 Cartesia with Gulamel. If you just boom when they put both on field and remember that they can't synchro after using Rahu the gameplan will generally not work. Even if they get it onto the field Lunalight can still beat it.
+
+There is one other way the Dracotail player could try to win, without even outing the Ligers. This strategy involves looping Sanctifire to put monsters with low attack on the Lunalight player's board to attack over. It requires using the Dracotail fusions and Pan in the GY to stall and is generally not a reasonable plan when going second.
+
+Conclusions:
+
+- Hound negate Branded fusion.
+- Five-rainbow can ruin your day and sometimes you can't do anything about it.
+- 4 + 7 = 3 + 8 = 11. Don't let them synchro.
+
 ### Radiant typhoon
 
 This is a very interesting match up because of one specific piece of text: Krosea cannot be destroyed by battle or card effect when the opponent controls no spell or traps.
@@ -805,4 +1008,142 @@ Let's consider how we can prevent this from happening. We will start by forming 
 
 Eldam, Swen and Meghala can all special summon themselves but _only_ when MST is in the GY or the opponent doesn't have any backrow. Since we have concluded that there will almost certainly be backrow, Radiant typhoon has to activate MST as early as possible to get all the bodies on the board.
 
-Krosea, Fonix and Varuroon can special summon themselves when a quick play spell was activated. A quick play spell which activation was negated does fulfill the condition.
+Krosea, Fonix and Varuroon can special summon themselves when a quick play spell was activated. A quick play spell which activation was negated does not fulfill the condition.
+
+They have too many bodies that freely special summon themselves to ever reliably keep them off of getting to Varuroon, so you just have to assume they will get there and place Mandate. If you use one of your pops early you're in a position to theoretically get threatened by Gossip shadow since it can negate the other Liger. Because of this it feels incentivized to hold for the battle phase which is the only moment Liger can be removed.
+
+So if there is no direct choke point you can reliably hit on their turn, then perhaps the best approach is to simply destroy the board in the battle phase, allowing the Greatfly to recycle itself, and then try to prevent their actions on the next turn. Since the deck has a lot of potential plays with every card in hand, but there are only 5 cards you can set on the field.
+
+In order to deal with their loop you don't want them to continuously summon Krosea using Ascendance, so it might be the best negate with Hound. In order to destroy Krosea we need to be able to put a spell or trap on the field, and we will likely have one in hand under normal conditions.
+
+The pendulum monsters will not act as follow up like they would in some other match ups.
+
+...
+
+### Odion
+
+This deck can actually be annoying due to the protection effect on Man with the mark. If they just activate the field spell and then set Man with the mark, you can't use Liger to destroy or attack over it, potentially letting them stall for a long time. In order to out it your options are pretty much S:P to banish, Tiger king to negate or summoning Wolf to do piercing damage. Otherwise we need to draw some non-engine that can deal with it. The problem here is that all of their other set cards will try to stop you from getting to any of your solutions.
+
+The way we can play if this happens is to keep passing turns to draw into a full hand again, since the Odion player can only set 5 cards. Doing this lets you accumulate more pushes while the opponent doesn't gain any advantage.
+
+Because of this we may want to negate the field spell with Hound. The only risk is that a second field spell can be activated if the first one was negated. Therefore the better scenario is using A bao to pop the field spell to guarantee that it won't be there on the next turn, so that we can safely attack for game.
+
+We can do similarly with I:P, without much added risk as we can negate Impulse or Songs by using Hound.
+
+Topologic blaster is also strong here, we will try to simply wait for the end phase and then shuffle all backrow into the deck.
+
+None of the other endboard pieces do much to help here.
+
+Conclusions:
+
+- Don't let them build a wall.
+- If they build a wall it may be worth passing multiple turns.
+- Get rid of the field spell so there is no protection.
+- Alternatively remove the Man before it's protected.
+
+### Vanquish soul K9
+
+This deck is usually not that difficult to beat if you go first but it has a lot of tricks to be aware of.
+
+**Let's first consider the win conditions of VSK9 when going second:**
+
+- Attack over the Liger dancers.
+- Burn the opponent to death over multiple turns.
+
+**And how can we achieve the first option of attacking over Liger?**
+
+- Overlay 3 level 5 monsters to make Arc rebellion.
+- Werewolf boosted by case after a monster effect was activated in the hand or GY.
+- Caesar boosted by Rocks.
+- K9 Hound.
+
+The first option is the most straightforward, with 3 level 5 monsters on the field you simply make Arc rebellion, which cannot be destroyed by Liger, and use its effect to boost high enough that a single attack will end the game. Even if you can't deal enough damage in one hit the Liger still won't be able to remove it, so the chance of it being around for the next turn is still high.
+
+The second option is conditioned on the opponent using a monster effect in the hand or GY. Usually this will be the Hound that is used to negate VS Start. After that you simply need to make a K9 xyz monster and use Forced release to turn it into Werewolf which will be able to attack over both Ligers. However, unlike Arc rebellion there is nothing protecting Werewolf from being destroyed by Liger dancer, which means this is only a viable approach _after_ both Ligers have used their effects.
+
+The third option is not real and I have never seen anyone even try to attempt this. But I was told about it before VSK9 released in Master duel so I did put some thought into it. The requirement here is to make Rocks using Razen and another level 4, so that it gets the effect to boost the attack of VS monster by 1000. This makes Caesar big enough to attack over Liger. However you need the protection of Start to protect them from Liger, and even then it only protects from 1. So you also need to bait the first Liger before you put 2 level 4's on the field to make Rocks, and get Caesar in play, without getting your field spell negated by Hound. As you can tell by now this is unrealistic and Rocks is not even commonly played.
+
+And the fourth, last option is to summon K9 Hound which cannot be destroyed by card effects the turn it was summoned, and gains 500 atk every time you use an effect. A normal Hound boosted by Case will be 3400 atk so it needs 1 boost to be bigger than Liger.
+
+**What about the option of burning the opponent to death?** For this to happen we need to be able to stall for 5 turns to burn 5 times with Borger and once with Snow devil, if we cannot inflict damage in some other way. Our options for stalling include the protection effect of Start, Caesar's effect to make himself immune, Razen's effect to protect himself from destruction and Snow devil's ability to protect the whole field. How can we protect from 2 field destruction effects on every turn? Well that's because it's not every turn. Liger will run out of bullets eventually if they are not used efficiently and when that happens you only need to block the attacks. That's the idea of it at least.
+
+It is also worth mentioning Durendal, a rank 5 that is increasing in popularity and has the ability to negate Liger dancer once per turn by changing its effect into destroying a spell/trap the opponent controls. Important to note is that the Durendal user must control a spell/trap to be able to do this.
+
+**Now let's flip the perspective and consider how we should play to beat all these win conditions as the Lunalight player.**
+
+Playing around Arc rebellion is as simple as blowing up the board if there are ever 3 level 5's on it. If you do not you can lose the game in the next moment, so unless you're confident the opponent is not playing Arc rebellion then you simply have to. Also, most hands will not be able to consecutively put 3 level 5's on the board.
+
+Playing around Werewolf getting boosted means either not activating anything in the hand or GY, or always saving 1 of your Liger effects until the opponent goes battle phase. Usually you will negate Start with Hound so we can assume that Case will be online.
+
+Boosted Caesar is just as easy to beat. As mentioned before we will use Hound to negate Start meaning there won't even be any protection. However if the opponent makes Ripper first and we choose not to interact, then we can still just use Liger twice in the battle phase. While the Caesar can protect itself, destroying Rocks means the boost is gone.
+
+K9 Hound will just sit there doing nothing if you just don't click any buttons. But even if you're forced to interact, the Hound will only be able to attack over 1 Liger so you get to keep the second one.
+
+To not get burnt to death you want to make it as hard as possible for the opponent to stall. This is why we want to negate Start, as it protects all VS monsters once per turn. If we full combo we can also have 2 Hound in our GY which means we have a second negate ready for Snow devil if they search it. The most likely scenario for you to get stalled out is if you end on only 1 Liger.
+
+In most cases, 2 Ligers with a Hound to negate will be enough to win this match up. Any extra endboard pieces will practically guarantee a victory.
+
+### Lunalight
+
+A lot of people say the mirror match is easily won by the person who goes second, but my experience does not align with this notion. Generally I would say the player who draws better non-engine wins in the mirror, but there are choices we can make to improve our chances beyond that.
+
+But just to be clear, if your opponent resolved Maxx c or Fuwa in the mirror, you are almost certainly losing. Heavy poly is also a card that weighs the scale in your opponent's favor.
+
+But assuming we actually got to combo going first, how should we use our interruptions for the best value? Since the Liger dancers are not unaffected by the opponent's effects we will think of them as consumable. Assume they won't stick around on the field and try to use them in the most disruptive way. Generally that means to blow up the board when Kaleido is summoned so that it doesn't get a chance to put fusion monsters in the GY.
+
+Since there are only 2 ways to cheat the fusion materials, ignoring Heavy poly, we want to use Hound to negate the other one, which is Lunalight fusion. If we can successfully prevent the opponent from sticking Kaleido on the field and negate Lunalight fusion they will not be able to summon the big fusions. That is the assumption we will proceed with.
+
+If you have Ash blossom or Impulse in hand your chances of winning are even higher, as these cards can also negate Lunalight fusion, meaning you have Hound to negate Heavy poly if necessary.
+
+But you don't always have to play around Heavy poly. You have to consider how many Lunalight monsters your opponent has access to, and if they would even be able to continue playing after using Heavy poly. Because, while their Liger dancer will destroy yours, you will also be able to destroy theirs. So if they put all of their resources into summoning Liger and you just blow it up, then you are still in the winning position.
+
+Because of this we want to minimize the number of available names they have. Therefore, if you have an S:P on the board and your opponent normal summons Gold leo, you banish it immediately. By taking out the Gold leo you remove 2 bodies from them that they could have potentially used to fuse into something threatening.
+
+If you have Nibiru you will most likely use it in the end to stop them from comboing after they have put a lot of resources into breaking your board.
+
+If you have A bao you can even use both of the W:P effects. Because our win condition is not to keep Liger alive, after you have used them both you can just link them off into S:P, and still use W:P's negate effect. This gives you a lot of interruptions that are hard to play through.
+
+Topologic blaster can also turn this match up into a joke, as you will banish both of the opponent's Leo dancers, forcing them to play with no access to any of the big fusions.
+
+Importantly you simply have to keep in mind that you're trying to win the winnable game, so don't play around the unwinnable scenario, if it happens it happens.
+
+## Match ups going second
+
+What games you can win going second will often come down to your non-engine, as a pure engine hand is very unlikely to beat the full combo of any deck.
+
+### Yummy
+
+Best non-engine when going second against Yummy:  
+Good:
+
+- Fuwa
+- DRNM
+- Heavy poly
+- Super poly
+
+OK:
+
+- Purulia
+- Droplet
+- Eclipse
+- Nibiru (against pure)
+
+Going second against Yummy is basically a battle of removing the Arc light from the field while they're trying to protect it.
+
+If the Yummy player got to play then you will not be able to attack over the Arc light because of numerous ways they have to protect it. Either the I:P will make S:P to banish your normal summon, or if they have Snatchy on the field they can synchro summon to deal with, or if they have Cooky in GY they can use Surprise to summon it in battle phase, making your monster too small. Because of this the only reliable way to deal with Arc light is to use a board breaker.
+
+The best board breaker in this match up is easily DRNM, as it turns off most of the opponent's interactions. They are left with the Yummy interactions that they can reach through Surprise, which are pretty easy to play through most of the time.
+
+Heavy poly and Eclipse are likely to share the same usage, being a card you activate to force Arc light to activate so it's no longer floodgating you. Heavy poly can also be really strong if you have something else that can stop the Arc light as a single Liger hitting the board almost guarantees your win.
+
+Super poly is not really a card you usually want to play but if you do, then it can be good against Yummy.
+
+If you don't draw any board breakers then you hope to stop your opponent from ending on the full board somehow. If you can prevent them from either getting to Arc light, or setting up proper protection for it, then you have a chance to win. Fuwa is really good here as they have to give too many draws to all in, and instead will end on a weak board that you can beat with only engine.
+
+Other hand traps are generally quite poor into Yummy, but Nibiru is another one that can be used to trade with Arc light, if it is pure Yummy. If it is Solfa yummy then they will try to set up the Solfa negate before Arc light anyway, and then your Nibiru does nothing.
+
+If the opponent is on Solfa yummy and you have Ash or Impulse then you just want to use it on Happiness. If it's a Yummy start you can Ash either Cupsy or Cupsy way. The intention is to weaken their endboard in some way and using Ash on Cupsy means they won't get Surprise. Using Ash on Cupsy way can stop them from getting to other names which would be ideal, but if they already have them in hand then you did nothing, so it has a higher chance of getting punished.
+
+...
+
+### Vanquish soul K9
