@@ -45,6 +45,10 @@ I will continuously attempt to implement any improvements I can find in pursuit 
 
 ## General thoughts on various things
 
+### Broadbull
+
+Broadbull being unbanned improves every line which means that most of the information here will be outdated.
+
 ### Follow up
 
 The notion that you're near guaranteed to win the game if you reach your endboard is not entirely correct. Into a lot of decks it is true that you will win the game, and often you don't even need anything beyond the Liger dancers to do it. However, if the Liger dancers are enough to beat a lot of decks, that means everything we do surrounding our attempts to summon those Ligers should be focused on winning the remainder of games where they may not be enough. If we take Mitsurugi as an example, Wousu being an in-engine Kaiju means you are almost guaranteed to lose at least 1 Liger during their turn 2. And even if you can keep the second one on the field they can recycle that Wousu and potentially do it again next turn. To prevent this from happening we will try to re-summon the Liger that was lost. This requires us to use the hand effect of Sheep to add that Liger back to the extra deck, and then fuse into it again by sending the second Leo dancer to the GY.
@@ -63,7 +67,7 @@ It's not be all end all but it is a powerful board breaker. I don't think VSK9 b
 
 ### Getting hit by Nibiru
 
-For most of these lines it hurts the most if the opponent uses Nibiru after Cross-sheep has been summoned, because it is harder to extender and the token becomes mostly useless on the board since you cannot make S:P with it. However it is important to note that it is very difficult to determine when the best spot to use Nibiru against Lunalight is, due to the lack of standardised combo lines. If you play against 10 different Lunalight players they will likely be comboing in 10 different ways. Because of this you cannot accurately predict when the opponent will use Nibiru either. Therefore the best way to play around it is to always have some number of extenders available that can get you to Liger no matter when the rock is dropped.
+For most of these lines it hurts the most if the opponent uses Nibiru after Cross-sheep has been summoned, because it is harder to extend and the token becomes mostly useless on the board since you cannot make S:P with it. However it is important to note that it is very difficult to determine when the best spot to use Nibiru against Lunalight is, due to the lack of standardised combo lines. If you play against 10 different Lunalight players they will likely be comboing in 10 different ways. Because of this you cannot accurately predict when the opponent will use Nibiru either. Therefore the best way to play around it is to always have some number of extenders available that can get you to Liger no matter when the rock is dropped.
 
 ## What to end on
 
@@ -324,6 +328,25 @@ The reason you search Hound first is because you still get to make Liger if your
 
 If Droll on the Gold leo add, pure 1 card line ends on just Liger + S:P or I:P if played. If the starter was Fraktall then the endboard is Liger + A bao with W:P in GY. With additional extenders the board can also have Hound live in GY, and the highest cap without considering non-engine is to make S:P into W:P into A bao and then use A bao to summon back S:P on turn 1, which you can do with Fraktall + Masquerade for example.
 
+If the opponent uses Izuna or Hollie sue and you have Impulse in hand to stop it, it will lock you out of earth monster effects meaning we cannot use Nyarla or Cross-sheep, so how do we do the combo without them?
+
+1. Gold leo searches Hound and discards it, summon Kaleido from deck.
+
+The opponent will likely try to stop you here and you Impulse their interaction.
+
+2. Kaleido sends Sheep which is added to hand. Use it to search Poly.
+3. Use Poly to fuse into Perfume dancer with Gold leo and Kaleido. Search Perfume and add Poly back to hand.
+4. Perfume summons Kaleido and searches Tiger by discarding a card in hand.
+5. Kaleido sends Leo dancer to GY and Tiger summons Sheep. Bounce Tiger back to hand with Perfume dancer.
+6. Use Poly to fuse into Liger dancer using Kaleido, Perfume dancer, Sheep and Tiger in hand. Trigger Sheep to add back Tiger.
+7. Use Tiger again to summon Kaleido, send Marten to GY and use it to bounce Tiger in order to summon itself.
+8. Overlay Marten and Kaleido to make Dugares and use its effect to summon Kaleido from GY, send Wolf.
+9. Use Tiger again to summon Marten and make Tiger king to set Tenki that searches Sheep.
+10. Make S:P with Tiger king and Dugares. Add Wolf to hand with Sheep.
+11. Use Wolf to fuse into the second Liger using the GY.
+
+This line doesn't play around Nibiru but normally VSK9 doesn't play it so hopefully it won't be a problem.
+
 #### If you draw more combo pieces
 
 It's best to play the line like normal for as long as you can since it's relatively safe and ends on everything. Extra extenders are only needed if you get stopped. there are however some interactions to consider depending on what extra cards you have.
@@ -401,17 +424,28 @@ Can we play around Droll here by searching something else with Gold leo? Obvious
 1. Activate Fraktall to send Hound, summoning Kaleido. Send a fusion from extra deck.
 2. Normal summon Gold leo and search Wolf, discard the Wolf and add it back.
 
-Here we encounter the first issue with this plan: in order to use the Wolf for a fusion summon, without banishing the Kaleido, we have to banish either the Hound or fusion monster in the GY. This would again put us in a position to get Impermed, hence defeating the point of doing this line to begin with. But let's look past that for now and continue.
+Here we encounter the first issue with this plan: in order to use the Wolf for a fusion summon, without banishing the Kaleido, we have to banish either the Hound or fusion monster in the GY. This would again put us in a position to get Impermed, hence defeating the point of doing this line to begin with. If you banish both monsters from field you can't get Impermed on the Perfume search, but in order to get Kaleido onto the field again you have to search another one, which means Perfume summoning Hound from GY, opening you up to get Impermed on the effect to bounce Wolf and summon Kaleido. As it turns out we cannot play around both Imperm and Droll when we start with Fraktall for Kaleido, sending a fusion.
 
-3. ...
+On the opposite end, can we play through Imperm when we start by normal summoning Gold leo? As an extender Fraktall still has to send Hound to summon Kaleido. From here on we need to break out of the lock and extend somehow so we send Marten and bounce Kaleido. The only real play next is to make a rank 4. Making Nyarla to search with Marten can get us Masquerade or Lunalight fusion. Masquerade gives us a second body but no way to fuse while Lunalight fusion gives us a way to fuse but no second body to fuse with. Tenki from Tiger king has the same problem where you can get Sheep into Poly, but lack a second body. Searching Tiger with Tenki doesn't extend. So the conclusion here is that we need either another Lunalight monster or a way to fuse in hand in order to play through Imperm on the normal summoned Gold leo. If we had a way to fuse, then we would just play by fusing Gold leo and Kaleido. If we have neither then the most you can do is Dugares draw 2.
 
-On the opposite end, can we play through Imperm when we start by normal summoning Gold leo? As an extender Fraktall still has to send Hound to summon Kaleido. From here on we need to break out of the lock and extend somehow so we send Marten and bounce Kaleido. The only real play next is to make a rank 4. Making Nyarla to search with Marten can get us Masquerade or Lunalight fusion. Masquerade gives us a second body but no way to fuse while Lunalight fusion gives us a way to fuse but no second body to fuse with. Tenki from Tiger king has the same problem where you can get Sheep into Poly, but lack a second body. Searching Tiger with Tenki doesn't extend. So the conclusion here is that we need either another Lunalight monster or a way to fuse in hand in order to play through Imperm on the normal summoned Gold leo. But what's the best way to play out that line? Is it better to search for Sheep with Tenki or search with Marten?
+If we have another Lunalight monster in hand, it can't be Sheep because then we would combo like normal. So it has to be one of the following:
+
+- Emerald
+- Tiger
+- Wolf
+- Marten
+- Hound
+- Kaleido
+
+Each of these being the third card enables different ways to combo, let's look at them all. (eventually)
+
+Wolf would of course enable the normal line under early Droll. However, since we're considering Imperm specifically, we are still able to search cards so we can do better than that line.
 
 ##### Masquerade
 
-If you draw masquerade in addition to Gold leo you just hold it in hand if nothing happens, and then you don't have to go through Nyarla for the search. However, Masquerade can help us beat Imperm on Gold leo, so let's take a look at how we can do that.
+If you draw masquerade in addition to Gold leo you just hold it in hand if nothing happens, and then you don't have to go through Nyarla for the search. This means you are +1 body so you can draw 2 with Dugares and still have enough bodies to make A bao, for example. You can also still go through Nyarla to get an additional search with Marten. Or, if you don't want to discard any of your other cards in hand with Perfume, should you just discard the Masquerade and search for a second one? There is a second option which is to use the Masquerade early, sending Marten and triggering the search so you have a card to discard with Perfume. However since we just triggered Marten it cannot be insurance in the combo, so to work around this we send Emerald with Kaleido. Now we can summon Emerald using Tiger, and as long as it stays on the field, Nibiru will trigger it letting us summon Kaleido back, just as if we had Masquerade in hand. If nothing happens we can make Nyarla with it in the end to trigger the effect while attaching Dugares, giving us the fiend we need to make A bao, if you want to do that.
 
-Sending Hound to summon Kaleido will not do it because you cannot use the second effect of Gold leo to add back what you send. This means your only way to get a fusion spell into your hand is by sending Marten, which bounces Kaleido (to remove the Lunalight lock) and then makes a rank 4. At this point you can make Tiger king to search Sheep which gets you Poly, or Nyarla to detach Marten and search Lunalight fusion. In either scenario you have a fusion spell + Kaleido in hand but cannot fuse since there's no second material.
+Additionally, Masquerade can help us beat Imperm on Gold leo, so let's take a look at how we can do that. Sending Hound to summon Kaleido will not do it because you cannot use the second effect of Gold leo to add back what you send. This means your only way to get a fusion spell into your hand is by sending Marten, which bounces Kaleido (to remove the Lunalight lock) and then makes a rank 4. At this point you can make Tiger king to search Sheep which gets you Poly, or Nyarla to detach Marten and search Lunalight fusion. In either scenario you have a fusion spell + Kaleido in hand but cannot fuse since there's no second material.
 
 Instead we have to send Marten with the Masquerade to trigger the effect letting us search Lunalight fusion. We can then use Marten can then become the second material by summoning itself from the GY. Here's the line:
 
@@ -427,6 +461,28 @@ Instead we have to send Marten with the Masquerade to trigger the effect letting
 10. Make S:P with Perfume dancer and Tiger king. Fuse into Liger dancer with Poly.
 
 This ends on S:P, Liger and Hound with a fusion in the GY. But I feel like we can do better...
+
+#### Book of eclipse
+
+This is not really an extender but it does beat Imperm. By chaining this to Imperm or similar effects we can make Gold leo's effect resolve, but we cannot play out the line we normally would since Gold leo is face down, instead we will play it out like this:
+
+1. Normal summon Gold leo and chain Book of eclipse in response to Imperm.
+2. Gold leo searches and discards Marten. Marten searches for Masquerade.
+3. Masquerade sends Hound, which summons Sheep from deck.
+4. Marten bounces Sheep to summon itself. 
+5. Sheep searches Poly, fuse Marten and Gold leo into Perfume dancer. Search Perfume and trigger Masquerade to add Poly back to hand, discard something.
+6. Use Perfume to summon Gold leo from GY, and then discard something to search Kaleido.
+7. Use Perfume dancer to bounce Masquerade and summon Kaleido from hand.
+8. Kaleido sends Emerald which Gold leo adds back to hand.
+9. Make Dugares with Kaleido and Gold leo, use the effect to summon Kaleido from GY. Kaleido sends Wolf.
+10. Make Cross-sheep with Perfume dancer and Dugares.
+11. Activate Poly to fuse Kaleido and Emerald into another Perfume dancer in the Cross-sheep arrow. Trigger Cross-sheep to summon Kaleido and Emerald to summon Sheep.
+12. Make S:P with Perfume dancer and Cross-sheep. Kaleido sends Leo dancer.
+13. Use Poly again to fuse into Liger dancer using Kaleido + Sheep on field and Emerald + Gold leo in GY.
+14. Trigger Sheep to add Wolf back to hand.
+15. Use Wolf to fuse into the second Liger dancer using Leo dancer + Perfume dancer + Kaleido + Sheep in GY.
+
+With this we end on S:P + 2 Liger dancer on the field and Hound + Perfume dancer in the GY with Masquerade back in hand to act as follow-up. In the end we only have to compromise a small bit to completely play through Imperm.
 
 ### Masquerade
 
@@ -589,7 +645,7 @@ If we try to stick closely to the Gold leo line:
 11. Make Dugares with Kaleido and Marten to resummon Kaleido, send Leo dancer.
 12. Use Tiger to summon Sheep. Use Masquerade to send Emerald to summon the second Sheep.
 13. Activate Poly to fuse into Liger with 4 monsters on the field. Both Sheep trigger to add back Kaleido and Wolf. Masquerade adds back Poly without discarding.
-14. Scale Wolf and pendulum summon Kaleido, sending second Hound for fun and link climbing through W:P into A bao.
+14. Scale Wolf and pendulum summon Kaleido, sending second Hound for fun and link climb through W:P into A bao.
 15. Activate Wolf to fuse into the second Liger.
 
 **OVERVIEW:**  
@@ -770,7 +826,7 @@ This line is safe into Nibiru as Perfume dancer is the 5th summon and we will ha
 
 However if you have a keen eye you will have noticed that Nyarla requires a monster in the GY to activate. So you can only do this line if you have a monster in hand to discard on summon. Which can feel a bit bad since it's just a minus 1. This is a scenario where Dempsey is a direct improvement.
 
-Cen we still do a similar line without discarding? Yes if we make Dugares first so that Kaleido can send another monster to the GY. But by doing this we play into Nibiru before making Nyarla. It also plays awkwardly into Droll as you use Dugares at the start. And if you send Wolf to attach with Nyarla then you can't add it back with Gold leo.
+Can we still do a similar line without discarding? Yes if we make Dugares first so that Kaleido can send another monster to the GY. But by doing this we play into Nibiru before making Nyarla. It also plays awkwardly into Droll if you use Dugares to draw at the start. And if you send Wolf to attach with Nyarla then you can't add it back with Gold leo.
 
 **Kaleido send Gold leo:**
 
@@ -796,9 +852,13 @@ Based on these lines and assessment, it is better to send Marten first if you do
 
 #### Line with Wolf
 
-Since Wolf is another pendulum scale it also lets you combo with Kaleido, however in this case we don't really have any choice in what to send. If we don't send Marten the only way to proceed is to activate Wolf, banishing both Kaleido and the sent monster to fuse into Perfume dancer. However the searched Perfume doesn't have anything to summon, unless you play Gravity controller to put Perfume dancer in the GY. For the sake of curiosity I may explore this option too.
+Since Wolf is another pendulum scale it also lets you combo with Kaleido, however in this case we don't really have any choice in what to send. If we don't send Marten the only way to proceed is to activate Wolf, banishing both Kaleido and the sent monster to fuse into Perfume dancer. However the searched Perfume doesn't have anything to summon. If you play Gravity controller you can link off Perfume dancer and resummon it with Perfume, letting you then bounce Wolf to summon a searched Gold leo from hand. However, we will send Marten instead.
+
+There is however a difference, we have access to fusions early, and that means we have options.
 
 **Kaleido send Marten:**
+
+What happens if we go for an early Nyarla?
 
 1. Normal summon Kaleido and send Marten to GY.
 2. Scale Wolf and bounce it with Marten to summon itself.
@@ -814,6 +874,46 @@ Since Wolf is another pendulum scale it also lets you combo with Kaleido, howeve
 12. Make S:P with Kaleido and Cross-sheep. Activate Wolf to fuse into the second Liger.
 
 We play around Nibiru with this line. It is not safe into Droll though.
+
+However in this case it might simply be optimal to go through Dugares first. Let's see how we can sequence that:
+
+1. Normal summon Kaleido and send Marten to GY.
+2. Scale Wolf and bounce it with Marten to summon itself.
+3. Overlay Kaleido and Marten to make Dugares, using its effect to summon Kaleido again from GY, send Gold leo.
+4. Make Cross-sheep with Kaleido and Dugares.
+5. Scale Wolf again and use its effect to fuse into Perfume dancer using Kaleido and Marten in the GY, search for Perfume and trigger Cross-sheep to summon Gold leo.
+6. Activate Gold leo to search Emerald and discard it. Trigger Emerald to summon the banished Kaleido.
+7. Kaleido sends Sheep and Gold leo adds it back to hand. Use it to search Poly. Use Perfume dancer to bounce Wolf.
+8. Overlay Kaleido and Gold leo to make Tiger king, setting Tenki that searches Fraktall.
+9. Activate Tiger king to detach Kaleido and summon it back with Perfume. Send Leo dancer with Kaleido. Use Perfume to discard a card and search Tiger.
+
+At this point we have guaranteed that we get to Liger dancer through Nibiru, however we ideally want to get to 2 Liger dancers. Without Masquerade in rotation we lack the ability to fuse from the GY twice, which means cannot really get to 2 Liger dancers if Nibiru is chained to Poly.
+
+10. Use Fraktall to send Hound to GY, which summons Sheep from deck.
+11. Use Tiger to summon the Sheep in the GY.
+12. Activate Poly to fuse into Liger dancer using the 4 lunalight monsters on the field. Trigger Kaleido to add back Poly and both Sheep to add back Kaleido and Emerald.
+
+Now we can pendulum summon the 2 level 4's in hand to end on any board we want.
+
+This line does well into Nibiru but getting hit by Droll after the Perfume search stops Gold leo, meaning you don't get Kaleido back. If we try to play around Droll by not banishing the Kaleido and instead summon it with Cross-sheep then we can still send Leo dancer to the GY. Then we simply link off the Kaleido so that Perfume can summon it again to send another name. The Perfume dancer resets Wolf to let us summon Liger dancer. This way we end on Liger + S:P into Droll.
+
+If we don't get hit by Droll we could play it something like this:
+
+1. Normal summon Kaleido and send Marten.
+2. Scale Wolf and bounce it to summon Marten.
+3. Overlay to make Dugares, detach to summon Kaleido from GY. Send Gold leo.
+4. Make Cross-sheep with Kaleido and Dugares.
+5. Activate Wolf to fuse into Perfume dancer using Gold leo and Marten in the GY. Trigger Cross-sheep to summon Kaleido and trigger Perfume dancer to search Perfume.
+6. Bounce Wolf back to hand with Perfume dancer. Send Gold leo again with Kaleido and summon it back with Perfume.
+7. Activate Gold leo to search and discard Hound, which triggers to summon another Kaleido from deck. 
+8. Send Leo dancer with the second Kaleido and use Perfume in the GY to search for Sheep.
+9. Activate Sheep to search Poly and add Sheep back to hand with Gold leo.
+10. Use Poly to fuse into Liger dancer using Kaleido + Perfume dancer on field and Sheep + Wolf in hand. Add Wolf back to hand with Sheep effect.
+11. Overlay Kaleido and Gold leo on the field to make Gallant granite and search Nibiru.
+12. Make S:P with Granite and Cross-sheep.
+13. Use Wolf again to fuse into the second Liger dancer.
+
+This way we are ending on double Liger + S:P and a Nibiru search. We also play in a way that can beat both Nibiru and Droll.
 
 ---
 
@@ -837,11 +937,84 @@ If we use Tenki to search Gold leo which would be the strongest next play, can w
 10. We can now use the bodies on the board to link climb through W:P into A bao, and make S:P under it.
 11. Use Wolf again to fuse into Liger dancer, banishing everything but the Hound in GY.
 
+This way we ended on 1 Liger, A bao, S:P and Hound in GY (no fusion) through both Ash and Droll.
+
 Instead, if we figured that adding Gold leo with Tenki would be weak into Droll, and instead added Sheep, would the line be better?
 
-1. Normal summon Kaleido and send...
+If we do get hit by Droll we have options for how to play it out. Either we can normal summon Kaleido and send Wolf immediately and then just play it out as the normal Gold leo into early Droll line. However if we instead utilize the Tiger in hand and start by sending Emerald, we can go through Kaleido more times and put more names in the GY, letting us keep the Hound. Let's see how that can look.
+
+1. Normal summon Kaleido and send Emerald.
+2. Use Tiger to summon the Emerald and make Nyarla.
+3. Use Nyarla to detach and trigger Emerald to summon Kaleido.
+4. Use Kaleido to send Marten which bounces Tiger to summon itself.
+5. Make Dugares with Kaleido + Marten and activate to summon Kaleido from GY.
+6. Kaleido sends Wolf which we add back to hand with Sheep.
+7. Make Cross-sheep with Nyarla and Kaleido.
+8. Use Wolf to fuse into Perfume dancer by banishing Sheep and Emerald. Trigger Cross-sheep to summon Kaleido.
+9. Kaleido sends Leo dancer and Perfume dancer bounces Wolf to hand.
+
+From this spot we can choose what we want to do with the bodies and then use Wolf to fuse into Liger dancer, letting us keep the Hound in GY (no fusion). It puts us in the exact same spot as the line where we added Gold leo with Tenki. A bao is may also not be the best piece on the endboard if the last card in your hand will be Impulse, up to discretion.
+
+If we add Sheep and don't get hit by Droll, how do we play out our Kaleido + Sheep + Tiger hand when both Masquerade and Tenki have been used?
+
+1. Normal summon Kaleido and send Emerald. Activate Sheep to search Poly.
+2. Use Tiger to summon Sheep from GY.
+3. Activate Poly to fuse Kaleido and Sheep into Perfume dancer. CL1 Perfume dancer, CL2 Masquerade, CL3 Sheep. Add Emerald to hand, then add Poly and discard Emerald.
+4. Emerald summon Kaleido, which sends Gold leo. Perfume dancer bounces Tiger back to hand.
+5. Perfume summons Gold leo which searches and discards Marten. Marten searches Lunalight fusion and Gold leo adds Marten back to hand.
+6. Perfume in GY discards Marten to search Sheep.
+7. Make Cross-sheep with Kaleido and Gold leo.
+8. Activate Tiger to summon Kaleido, not in the Cross-sheep arrow.
+9. Marten bounces Tiger to summon itself, also not in the Cross-sheep arrow.
+10. Make Dugares with Kaleido and Marten, activate it to summon Kaleido from GY, this time in the Cross-sheep arrow. Trigger Cross-sheep to summon Sheep.
+11. Send Leo dancer with Kaleido and use Poly to fuse into Liger dancer using Kaleido + Perfume dancer + Sheep from the field and Sheep in hand. Use the triggers to add back Poly, Kleido and Wolf.
+12. Scale both pendulum monsters. Use Tiger to summon Marten from GY. Pendulum summon Kaleido and send another name for fun.
+13. Make S:P with Kaleido and Marten, then W:P with Cross-sheep and S:P, and finally A bao with W:P and Dugares.
+14. Activate A bao by discarding the Lunalight fusion to summon S:P back onto the field.
+15. Use Wolf to fusion summon into the Second Liger, placing it in the EMZ above the first Liger.
+
+This gets us to the highest cap board while keeping Impulse in hand and having a discard ready for A bao next turn. We also get to do the neat link monster shuffle that allows us to summon the second Liger in the EMZ, making it even harder than usual for an opponent to find a Gorgon angle. We also play around Nibiru in a way that guarantees 2 Liger dancers no matter what. As it turns out searching Sheep with Tenki did not make us compromise in any way at all.
+
+Meanwhile if we searched Gold leo with Tenki, we plan to normal summon it and use its effect to search Sheep. If we discard Kaleido so that we can fuse Gold leo with Sheep it puts us in a position where our resources are less easily accessible, because we have yet to trigger either Marten or Emerald after using both Gold leo and Masquerade's discarding effects. In other words we are going minus a lot compared to the previous combo.
+
+The conclusion here is that Tenki should be searching for Sheep.
 
 ### Kaleido + Marten + Tenki + Lunalight fusion + Fuwa
+
+If we start with Lunalight fusion we get to search both Perfume and Masquerade before there is an opportunity to Droll. We can then use Masquerade sending Hound to summon Wolf from deck, which Marten can bounce, and we have a decent line under droll.
+
+However if we start with Tenki for Fraktall, we also play fine under droll. So what other benefits are there to each start? Tenki into Fraktall will likely bait Ash or Impulse if the opponent has it, as well as Imperm on Gold leo, since to their knowledge it may be the only starter. However if you start by fusing into Perfume dancer it becomes unpredictable how the opponent may react.
+
+### Fraktall + Hound + Emerald + Tenki + 2 Heavy poly VS Unknown set
+
+In this scenario the opponent bricked on something so it's expected that there non-engine of some kind to play through. The set card could get checked by Fraktall sending Hound to summon Kaleido.
+
+However, doing that means you have to play with the rest of the hand, which is not actually that strong. For example if you then use Tenki to search Gold leo you can't play through Droll, or even Veiler. So perhaps the best approach is to start with Tenki so that you immediately know if there is a Droll, with the ability to adapt your play afterwards. Then card you would add then is not Gold leo but Sheep. If there is no Droll then there are 2 strong plays possible, Poly into Perfume dancer and Hound to summon from deck.
+
+### Fraktall + Marten + Lunalight fusion + Foolish + Ash VS Orange light
+
+Using Fraktall as the initial play, sending Hound to summon Gold leo. On effect the Gold leo gets negated and destroyed by Orange light. We can continue playing from here but to do that we have to send Emerald with Foolish in order to get a second body in play. Fusing will then trigger Marten to get us Masquerade but we still have a couple of issues. The Masquerade has limited usefulness after we already triggered Hound, Emerald and even Marten. We also want to get both Kaleido and Poly into rotation. Let's see how we should sequence to do all this. Notably the Gold leo effect to add back to hand has not been used yet, and the normal summon is also still available.
+
+After Orange light negates and destroys Gold leo:
+
+1. Activate Foolish to send Emerald which summons Gold leo.
+2. Activate Lunalight fusion to fuse into Perfume dancer using Gold leo and Marten. Trigger their effects to add Perfume and Masquerade.
+3. Perfume summons Gold leo and Masquerade sends Sheep which is added back to hand.
+4. Sheep searches Poly and Perfume in GY discards Poly to search Kaleido.
+5. Normal summon Kaleido and send Wolf.
+6. Overlay Kaleido and Gold leo to make Tiger king, Tenki searches Tiger.
+7. Use Tiger to summon Wolf, bounce Wolf to hand with Perfume dancer.
+8. Make Cross-sheep with Perfume dancer and Tiger king.
+9. Bounce Tiger with Marten to summon itself.
+10. Use Tiger again to summon Perfume dancer in the Cross-sheep arrow, trigger it to summon Kaleido. Send another Gold leo to GY.
+11. Make Dugares with Kaleido and Marten, use it to summon Kaleido back. Send Leo dancer to GY.
+12. Use Wolf to fuse into Liger dancer using the GY. Trigger Masquerade to add Poly back to hand, discard Ash.
+13. Activate Poly to fuse into the second Liger using Kaleido + Perfume dancer on the field and 2 monsters in the GY.
+14. Make S:P with Cross-sheep and Dugares.
+
+Through this line we end on 2 Liger, S:P and Hound in GY with a fusion. The negative is that we discard the Ash. If we instead use Perfume dancer to bounce Masquerade and use that as the discard for Perfume then we can Poly 4 monsters on the field which means we don't have to discard the Ash. However that line doesn't get to S:P.
+
+There is however a problem, which is that the normal summon of Kaleido is the 5th summon. We should therefore alter the line so that Masquerade sends Kaleido for Gold leo to add back, and the Tenki we set with Tiger king searches Sheep. This way the Perfume in GY is not used before there is an opportunity to use Nibiru, and we will still be able to search for Tiger if needed.
 
 ---
 
@@ -902,7 +1075,7 @@ Let's instead assume they have multiple engine pieces and consider how they put 
 
 But what if the S:P is forced before the normal summon? You use it when you have to use it. If they normal summon a Mitsurugi monster after that then your goal is to prevent them from getting to enough bodies.
 
-**In any scenario if you have Nibiru** you are generally safe from having your board broken. However you have to consider that they play Impulse, so to counter that you want to hold Hound and not use it on anything else. Another consideration to make is that if you activate Nibiru it will trigger their tribute effects, including Wousu letting them get it back to hand for free so you need to play with that in mind.
+**In any scenario if you have Nibiru** you are generally safe from having your board broken. However you have to consider that they play Impulse, so to counter that you want to hold Hound and not use it on anything else. Another consideration to make is that if you activate Nibiru it will trigger their tribute effects, including Wousu letting them get it back to hand for free so you need to play with that in mind. It's also probably correct to just not use S:P at all, as you don't want to let them activate TTT. If they can check your Nibiru with both TTT and Impulse, then you can't negate both with Hound and you might lose. Having Nibiru in hand is by far the safest position to be in against this deck if they use Maxx c against you, as it does not really matter how many cards they have in hand, only that they don't have CBTG + Impulse.
 
 **What about the board with A bao**, how safe is it compared to other options? If the opponent starts by normal summoning Ice ryzeal you're suddenly put in a spot with multiple options. Do you pop the normal summon that Liger can't deal with, or do you tag out into W:P so that you can negate and banish what Ice ryzeal summons? Let's explore.
 
@@ -1071,7 +1244,7 @@ It is also worth mentioning Durendal, a rank 5 that is increasing in popularity 
 
 **Now let's flip the perspective and consider how we should play to beat all these win conditions as the Lunalight player.**
 
-Playing around Arc rebellion is as simple as blowing up the board if there are ever 3 level 5's on it. If you do not you can lose the game in the next moment, so unless you're confident the opponent is not playing Arc rebellion then you simply have to. Also, most hands will not be able to consecutively put 3 level 5's on the board.
+Playing around Arc rebellion can be as simple as blowing up the board if there are ever 3 level 5's on it. If you do not you can lose the game in the next moment, so unless you're confident the opponent is not playing Arc rebellion you may just have to. Alas, most VSK9 hands will not be able to consecutively put 3 level 5's on the board. If your Ligers are summoned in def position you at least won't die to Arc rebellion, and so if you're able to play around what else has been set up for turn 3 you can possibly still win, even if they managed to summon it.
 
 Playing around Werewolf getting boosted means either not activating anything in the hand or GY, or always saving 1 of your Liger effects until the opponent goes battle phase. Usually you will negate Start with Hound so we can assume that Case will be online.
 
@@ -1106,6 +1279,18 @@ If you have A bao you can even use both of the W:P effects. Because our win cond
 Topologic blaster can also turn this match up into a joke, as you will banish both of the opponent's Leo dancers, forcing them to play with no access to any of the big fusions.
 
 Importantly you simply have to keep in mind that you're trying to win the winnable game, so don't play around the unwinnable scenario, if it happens it happens.
+
+### Kewl tune
+
+Kewl tune is a pretty bad match up to play against, not only does it play a lot of hand traps that can stop you from reaching your endboard, it also has ways to out Liger dancer.
+
+What you have to be careful of is RS or a boosted Crackle, as those can both become bigger than Liger dancer. In the case of Crackle it depends on what you have in your extra deck, and you can send all of the biggest Lunalight fusions to the GY with your Liger effects to stop it getting boosted by those.
+
+But to attack over 2 Ligers they have to either summon 2 synchros that are big enough, or support their attacker with B2B, which lets it attack twice.
+
+However, nothing yet described protects their board from Liger dancer blowing it up. The only way for them to do that is through Loudness war, which gets destroyed but protects all other tuners. This means, in order to stop 2 Liger effects, the opponent has to be able to summon Loudness war twice. It is generally impossible to put 2 Loudness war on the board while also setting up the attackers to beat both Liger, so instead B2B will be used for this. If the Kewl tune player climbs into B2B through Loudness war then B2B will be able to chain to the Liger effect, targeting the Loudness war in order to protect the field. However, B2B can't summon the same Loudness war twice in a single chain, so to protect from 2 Ligers activating in sequence, the Kewl tune player has to play 2 Loudness war. This is pretty common in master duel at the time of writing but is no longer standard when Fydraulis harmonia enters the format. However, when the Kewl tune player does play 2 Loudness war they can use the second B2B effect in chain to the second Liger effect, targeting a level 3 to synchro into the second Loudness war from the extra deck, protecting twice.
+
+So in order to prevent this from happening we must stop the opponent from climbing into B2B with Loudness war. And usually in doing so you will be forced into a spot where the opponent can still summon RS and attack over 1 Liger, but not both.
 
 ## Match ups going second
 
@@ -1147,3 +1332,32 @@ If the opponent is on Solfa yummy and you have Ash or Impulse then you just want
 ...
 
 ### Vanquish soul K9
+
+Best non-engine when going second against VSK9:  
+Good:
+
+OK:
+
+- Purulia
+- Fuwa
+- Droll
+- Impulse
+- Imperm
+
+Playing against full VSK9 combo with a 6 card hand is just not possible. It does not matter what board breakers you draw there are too many interactions in the hand and backrow. Due to all the protection it is incredibly hard to OTK through the board if you can't negate the Snow devil, which realistically requires you to draw Impulse or Reboot as getting the Hound negate live is always telegraphed so if the opponent has any understanding of what you're trying to do they will activate it early.
+
+So if we're never realistically beating the full board, what does it take for us to win? Other than when they brick or get stopped by 1 hand trap, there is a chance as long as they don't end on everything.
+
+Often times when you try to push through the board, even under favorable conditions, you will be short one or two pushes. This means if they don't have access to some of their interactions then it is possible to do it. That usually happens when their Saryuja draws are bad, sometimes if their hand is kinda scuffed, or if you activate Maxx c/Fuwa/Purulia against them.
+
+The draw cards are often not considered to be _that_ good into VSK9, especially Fuwa, but as long as they end on a smaller board and you start with 6 or 7 cards in hand the game is winnable.
+
+This is the situation where you may want to have Cat dancer in the extra deck, as it can function as a final push that has potential to still find lethal damage through the trap's or field spell's protection. In reality though I find it doesn't come up often.
+
+### Kewl tune
+
+This match up is absolutely terrible when going second because Crackle can rip all Leo dancers from your extra deck, leaving you with virtually no plays that can threaten the opponent in any way.
+
+This means you have to prevent that from happening, and the Kewl tune deck is generally quite good at playing through interrupting hand traps as they can extend in many ways. Because of that we cannot rely on hand trapping any specific play to avoid the worst outcome.
+
+However there are some cards that can increase our chance of preventing this worst case.
